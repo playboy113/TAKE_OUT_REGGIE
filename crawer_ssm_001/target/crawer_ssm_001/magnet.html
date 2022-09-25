@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>磁力链接</title>
+</head>
+<body>
+<div id = "app">
+    <template>
+                <el-table
+                        :data="tableData"
+                        style="width: 100%">
+                    <el-table-column
+                            label="标题"
+                            prop="title">
+                    </el-table-column>
+                    <el-table-column
+                            label="女优"
+                            prop="actress">
+                    </el-table-column>
+                    <el-table-column
+                            label="字幕"
+                            prop="subline">
+                    </el-table-column>
+                    <el-table-column
+                            label="清晰度"
+                            prop="def">
+                    </el-table-column>
+
+                    <el-table-column
+                            label="番号"
+                            prop="num">
+                    </el-table-column>
+                    <el-table-column
+                            label="类别"
+                            prop="types">
+                    </el-table-column>
+                    <el-table-column
+                            label="日期"
+                            prop="date"
+                            width = "100">
+                    </el-table-column>
+                    <el-table-column
+                            align="right">
+                        <template slot="header" slot-scope="scope">
+                            <el-input
+                                    v-model="search"
+                                    size="mini"
+                                    placeholder="输入关键字搜索"/>
+                        </template>
+                        <template slot-scope="scope">
+                            <el-button
+                                    size="mini"
+                                    @click="handleEdit(scope.$index, scope.row)">Edit</el-button>
+                            <el-button
+                                    size="mini"
+                                    type="danger"
+                                    @click="handleDelete(scope.$index, scope.row)">Delete</el-button>
+                        </template>
+                    </el-table-column>
+                </el-table>
+
+
+    </template>
+</div>
+
+
+<script src="js/vue.js"></script>
+<!-- 引入样式 -->
+<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+<!-- 引入组件库 -->
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+<script src="js/axios-0.18.0.js"></script>
+
+
+<script>
+    new Vue ({
+        el:"#app",
+        data() {
+            return {
+                tableData: [{
+
+                    title:'',
+                    actress:'',
+                    subline:'',
+                    def:'',
+                    magnet:'',
+
+                    num:'',
+                    types:'',
+                    date:'',
+
+
+                }],
+                search: ''
+            }
+        },
+        methods: {
+            handleEdit(index, row) {
+                console.log(index, row);
+            },
+            handleDelete(index, row) {
+                console.log(index, row);
+            },
+            selectAll(){
+                var _this = this;
+                axios({
+                    method:"get",
+                    url:"http://localhost:8080/crawer_ssm_001_war/selectAllServlet"
+                }).then(function (resp) {
+                    _this.tableData = resp.data;
+
+                })
+            }
+        },
+        mounted(){
+            this.selectAll();
+            var _this = this;
+            axios({
+                method:"get",
+                url:"http://localhost:8080/crawer_ssm_001_war/selectAllServlet"
+            }).then(function (resp) {
+                _this.tableData = resp.data;
+            })
+        }
+    })
+</script>
+</body>
+</html>

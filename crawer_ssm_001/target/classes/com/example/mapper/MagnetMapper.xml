@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.MagnetMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.pojo.magnet_model">
+        <result property="actress" column="actress"/>
+        <result property="title" column="title"/>
+        <result property="types" column="types"/>
+        <result property="subline" column="subline"/>
+        <result property="HD" column="def"/>
+        <result property="date" column="date"/>
+        <result property="magenet" column="magnet"/>
+        <result property="num" column="num"/>
+
+    </resultMap>
+
+
+</mapper>

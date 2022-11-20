@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62602f9e-8d8a-488c-8d89-4c8f244323c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/out/artifacts/CRM_war_exploded/WEB-INF/classes/target/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/target/classes/.idea/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/target/classes/target/classes/CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/crm-mybatis-generator/src/main/java/com/bjpowernode/crm/workbench/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/crm-mybatis-generator/src/main/java/com/bjpowernode/crm/workbench/mapper/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/crm-mybatis-generator/src/main/java/com/bjpowernode/crm/workbench/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/.idea/artifacts/RIGI_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/RIGI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/common/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/common/JacksonObjectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/common/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/filter/LoginCheckFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/mapper/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/service/Impl/EmployServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/api/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/api/combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/api/food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/api/member.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/404-images/404-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/404-images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/btn_back@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/btn_clean@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/btn_close@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/icon_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/icon_upload@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/jine_m-2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/renshu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/icons/xiangmujine@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/img_brand01@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/img_denglu_bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/login/login-l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/login/login-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/login/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/category/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/combo/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/combo/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/food/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/food/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/member/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/member/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/page/order/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/plugins/axios/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/plugins/element-ui/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/plugins/element-ui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/plugins/element-ui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/plugins/element-ui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/plugins/vue/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/icon/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/backend/styles/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/api/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/api/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/fonts/DIN-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/fonts/DIN-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/fonts/PingFangSC-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/fonts/PingFangSC-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/fonts/PingFangSC-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/cart_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/checked_false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/checked_true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/demo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/demo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/demo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/demo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/favico.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/headPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/locations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/mainBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/no_order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/no_wifi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/orders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/subtract.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/images/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/js/vant.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/add-order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/address-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/no-wify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/pay-success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/page/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/add-order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/address-edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/address.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/no-wify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/pay-success.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RIGI/web/front/styles/vant.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/artifacts/CRM_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/src/main/webapp/WEB-INF/pages/workbench/activity/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/CRM/CRM/src/main/webapp/WEB-INF/pages/workbench/activity/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/commons/contants/Contants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/commons/domain/ReturnObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/commons/utils/DateUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/settings/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/settings/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/settings/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/settings/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/settings/web/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/settings/web/controller/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/settings/web/interceptor/Loginterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/web/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/workbench/web/controller/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/java/com/zjz/crm/workbench/web/controller/WorkbenchIndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/resources/applicationContext-datasource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/resources/applicationContext-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/dictionary/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/dictionary/type/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/dictionary/type/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/dictionary/type/save.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/dictionary/value/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/dictionary/value/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/dictionary/value/save.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/qx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/qx/permission/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/qx/role/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/qx/role/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/qx/user/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/qx/user/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/settings/qx/user/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/activity/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/activity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/chart/activity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/chart/clue/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/chart/customerAndContacts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/chart/transaction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/clue/convert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/clue/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/clue/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/contacts/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/contacts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/customer/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/customer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/main/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/transaction/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/transaction/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/transaction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/pages/workbench/transaction/save.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/test.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/image/IMG_7114.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/image/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/image/user-thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap-datetimepicker-master/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap-datetimepicker-master/js/bootstrap-datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap-datetimepicker-master/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap-datetimepicker-master/locale/bootstrap-datetimepicker.zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap-datetimepicker-master_bak/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap-datetimepicker-master_bak/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap-datetimepicker-master_bak/locale/bootstrap-datetimepicker.zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bootstrap_3.3.0_bak/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/css/jquery.bs_pagination.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/js/jquery.bs_pagination.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/localization/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/localization/el.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/localization/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/localization/en.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/localization/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_pagination-master/localization/ru.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/bs_typeahead/bootstrap3-typeahead.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/echars/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/jquery-1.11.1-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/1_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/1_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/diy/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/line_conn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/zTreeStandard.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/img/zTreeStandard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/css/zTreeStyle/zTreeStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/CRM/src/main/webapp/jquery/zTree_v3-master/js/jquery.ztree.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/crm-mybatis-generator/crm-mybatis-generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/crm-mybatis-generator/crm-mybatis-generator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/crm/crm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CRM项目（SSM框架版）/项目源码/项目源码/crm-project/crm-project/crm/crm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../RIGI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../RIGI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../RIGI/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../RIGI/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../RIGI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../RIGI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/ReggieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/ReggieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/java/com/itheima/reggie/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../RIGI/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../RIGI/src/main/resources/backend/page/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../RIGI/src/main/resources/backend/page/login/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/config/MybatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/pojo/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/pojo/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/pojo/SysUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/pojo/SysUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/pojo/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/java/com/linbei/blog/pojo/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../博客系统/blog_sys01/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man1/src/main/java/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man1/src/main/java/c3p0-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/MemberDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/MemberTypeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/MemberTypeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/RecordDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/RecordDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/TypeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/TypeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/Dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/BookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/BookServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/MemberServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/TypeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/TypeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/ValCodeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/action/ValCodeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/MemberType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/MemberType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Record.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/BookBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/BookBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/MemberBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/MemberBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/MemberTypeBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/MemberTypeBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/RecordBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/RecordBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/TypeBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/TypeBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/UserBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/biz/UserBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/util/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/src/com/enjoy/book/util/DBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/web/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Books_Man2/web/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/Javaweb图书管理系统/图书管理系统资源包及源码/图书管理系统-JavaWeb/图书管理系统-JavaWeb/08-项目源码/mybook/mybook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/Javaweb图书管理系统/图书管理系统资源包及源码/图书管理系统-JavaWeb/图书管理系统-JavaWeb/08-项目源码/mybook/mybook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/MyBooks_Man/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/MyBooks_Man/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../图书管理系统/MyBooks_Man/src/main/java/com/emjoy/book/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../图书管理系统/MyBooks_Man/src/main/java/com/emjoy/book/c3p0-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/crawler_u3c3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/crawler_u3c3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/db/MySqlControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/db/MySqlControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/javdb/crawer_javdb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/javdb/crawer_javdb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/javdb_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/src/main/java/javdb_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/db/MySqlControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/db/MySqlControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/javdb/crawer_javdb$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/javdb/crawer_javdb$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/javdb/crawer_javdb.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/javdb/crawer_javdb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/javdb_main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer/crawer_0915/target/classes/javdb_main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../crawer_ssm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../crawer_ssm/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HDlCYXSQMMDt72SC0OdqnhCVbn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62602f9e-8d8a-488c-8d89-4c8f244323c0" name="Changes" comment="" />
+      <created>1667827409476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667827409476</updated>
+      <workItem from="1667827411003" duration="4447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
